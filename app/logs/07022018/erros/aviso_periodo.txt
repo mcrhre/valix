@@ -1,0 +1,1 @@
+{"codigo":"21.2.1","mensagem":"Erro Update","codigo_usuario":25,"caminho_arquivo":"\/app\/cron\/aviso_periodo.php","linha_arquivo":330,"hora":"11:00:53"}

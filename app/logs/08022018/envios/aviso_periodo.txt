@@ -1,0 +1,2 @@
+{"codigo":"22.1.0","mensagem":"Enviado com sucesso","codigo_usuario":24,"caminho_arquivo":"\/app\/cron\/aviso_periodo.php","hora":"11:00:38"}
+{"codigo":"22.1.0","mensagem":"Enviado com sucesso","codigo_usuario":25,"caminho_arquivo":"\/app\/cron\/aviso_periodo.php","hora":"11:00:43"}
