@@ -4,3 +4,15 @@
 
 <h1>Utilizando o Sistema</h1>
 <p>Após fazer o download do repositório, dentro da pasta "docs" você encontrará o dump do banco de dados, que inclui um usuário e alguns produtos já cadastrados. Basta importá-lo para o banco de dados MySQL. Os dados de acesso ao sistema para o usuário cadastrado estão disponíveis no arquivo 'acesso_login.txt', também localizado na pasta "docs".</p>
+
+<h1>Captura de Tela</h1>
+<br>
+<strong>Home</strong>
+<br><br>
+
+![print/tela_principal.jpg](print/tela_principal.jpg)
+<br><br>
+<strong>Dashboard</strong>
+<br>
+
+![print/tela_principal_interna.jpg](print/tela_principal_interna.jpg)
